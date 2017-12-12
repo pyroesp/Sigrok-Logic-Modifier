@@ -57,10 +57,11 @@ These are not the best, but they work for me. Feel free to change to whatever is
 - escape : quit
 
 ### Mouse:
+Only when dots are displayed do the mouse functions work !
 - Left click on a dot : toggle that data point from 0 to 1 or 1 to 0
 - Left click and drag : all selected data points within the blue rectangle will be toggled
 
-Whenever the zoom makes it so data points are at least 4 pixels from each othe, then dots are added to the waveforms.
+Whenever the zoom makes it so data points are at least 4 pixels from each other, then dots are added to the waveforms.
 
 ## Screenshot:
 Below is one of those glitchy data points, that first small low pulse at the start of the second waveform (I²C SCK):
